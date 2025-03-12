@@ -31,7 +31,7 @@ O script realiza os seguintes passos para validar um CPF:
    python validador-cpf.py
 
 ## Exemplo
-  ```sh
+
 Insira seu CPF: 12345678909
 
 CPF INSERIDO:  12345678909
